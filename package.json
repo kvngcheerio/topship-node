@@ -1,0 +1,35 @@
+{
+    "name": "topship-node",
+    "version": "0.0.1",
+    "description": "A NodeJS wrapper for the Topship API",
+    "main": "index.js",
+    "files": [
+      "src",
+      "index.js"
+    ],
+
+    "keywords": [
+      "topship",
+      "shipping",
+      "nodejs",
+      "api-endpoints",
+      "rest-api"
+    ],
+    "author": "Omozue Gregory <trackcompton@gmail.com> (https://twitter.com/kvngcheerio)",
+    "license": "MIT",
+    "standard": {
+      "globals": [
+        "describe",
+        "it"
+      ]
+    },
+    "dependencies": {},
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kvngcheerio/topship-node.git"
+    },
+    "bugs": {
+      "url": "https://github.com/kvngcheerio/topship-node/issues"
+    },
+    "homepage": "https://github.com/kvngcheerio/topship-node#readme"
+  }
